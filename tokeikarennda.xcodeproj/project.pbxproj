@@ -21,6 +21,14 @@
 		2BA4600418E112BC00E93EC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BA45FE618E112BC00E93EC5 /* UIKit.framework */; };
 		2BA4600C18E112BC00E93EC5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4600A18E112BC00E93EC5 /* InfoPlist.strings */; };
 		2BA4600E18E112BC00E93EC5 /* tokeikarenndaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BA4600D18E112BC00E93EC5 /* tokeikarenndaTests.m */; };
+		2BA4601818E15F1200E93EC5 /* tokeikarennda.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4601718E15F1200E93EC5 /* tokeikarennda.png */; };
+		2BA4601A18E15F1C00E93EC5 /* tokeikarennda-ver,2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4601918E15F1C00E93EC5 /* tokeikarennda-ver,2.png */; };
+		2BA4601C18E15F3B00E93EC5 /* tokeikarennda-hari.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4601B18E15F3B00E93EC5 /* tokeikarennda-hari.png */; };
+		2BA4601F18E47A1000E93EC5 /* DatailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BA4601E18E47A1000E93EC5 /* DatailViewController.m */; };
+		2BA4602C18E51D7200E93EC5 /* tokeikarannda-kai3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4602818E51D7200E93EC5 /* tokeikarannda-kai3.png */; };
+		2BA4602D18E51D7200E93EC5 /* tokeikarannda-kai4.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4602918E51D7200E93EC5 /* tokeikarannda-kai4.png */; };
+		2BA4602E18E51D7200E93EC5 /* tokeikarannda-kai2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4602A18E51D7200E93EC5 /* tokeikarannda-kai2.png */; };
+		2BA4602F18E51D7200E93EC5 /* tokeikarannda-kai.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA4602B18E51D7200E93EC5 /* tokeikarannda-kai.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +61,15 @@
 		2BA4600918E112BC00E93EC5 /* tokeikarenndaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "tokeikarenndaTests-Info.plist"; sourceTree = "<group>"; };
 		2BA4600B18E112BC00E93EC5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2BA4600D18E112BC00E93EC5 /* tokeikarenndaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tokeikarenndaTests.m; sourceTree = "<group>"; };
+		2BA4601718E15F1200E93EC5 /* tokeikarennda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tokeikarennda.png; sourceTree = "<group>"; };
+		2BA4601918E15F1C00E93EC5 /* tokeikarennda-ver,2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarennda-ver,2.png"; sourceTree = "<group>"; };
+		2BA4601B18E15F3B00E93EC5 /* tokeikarennda-hari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarennda-hari.png"; sourceTree = "<group>"; };
+		2BA4601D18E47A1000E93EC5 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		2BA4601E18E47A1000E93EC5 /* DatailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DatailViewController.m; sourceTree = "<group>"; };
+		2BA4602818E51D7200E93EC5 /* tokeikarannda-kai3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarannda-kai3.png"; sourceTree = "<group>"; };
+		2BA4602918E51D7200E93EC5 /* tokeikarannda-kai4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarannda-kai4.png"; sourceTree = "<group>"; };
+		2BA4602A18E51D7200E93EC5 /* tokeikarannda-kai2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarannda-kai2.png"; sourceTree = "<group>"; };
+		2BA4602B18E51D7200E93EC5 /* tokeikarannda-kai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tokeikarannda-kai.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,8 +132,17 @@
 				2BA45FF118E112BC00E93EC5 /* AppDelegate.h */,
 				2BA45FF218E112BC00E93EC5 /* AppDelegate.m */,
 				2BA45FF418E112BC00E93EC5 /* Main.storyboard */,
+				2BA4601D18E47A1000E93EC5 /* DetailViewController.h */,
+				2BA4601E18E47A1000E93EC5 /* DatailViewController.m */,
 				2BA45FF718E112BC00E93EC5 /* ViewController.h */,
 				2BA45FF818E112BC00E93EC5 /* ViewController.m */,
+				2BA4601718E15F1200E93EC5 /* tokeikarennda.png */,
+				2BA4601918E15F1C00E93EC5 /* tokeikarennda-ver,2.png */,
+				2BA4601B18E15F3B00E93EC5 /* tokeikarennda-hari.png */,
+				2BA4602818E51D7200E93EC5 /* tokeikarannda-kai3.png */,
+				2BA4602918E51D7200E93EC5 /* tokeikarannda-kai4.png */,
+				2BA4602A18E51D7200E93EC5 /* tokeikarannda-kai2.png */,
+				2BA4602B18E51D7200E93EC5 /* tokeikarannda-kai.png */,
 				2BA45FFA18E112BC00E93EC5 /* Images.xcassets */,
 				2BA45FE918E112BC00E93EC5 /* Supporting Files */,
 			);
@@ -228,9 +254,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BA4601818E15F1200E93EC5 /* tokeikarennda.png in Resources */,
 				2BA45FFB18E112BC00E93EC5 /* Images.xcassets in Resources */,
+				2BA4602F18E51D7200E93EC5 /* tokeikarannda-kai.png in Resources */,
+				2BA4601C18E15F3B00E93EC5 /* tokeikarennda-hari.png in Resources */,
+				2BA4602E18E51D7200E93EC5 /* tokeikarannda-kai2.png in Resources */,
+				2BA4602D18E51D7200E93EC5 /* tokeikarannda-kai4.png in Resources */,
 				2BA45FED18E112BC00E93EC5 /* InfoPlist.strings in Resources */,
+				2BA4602C18E51D7200E93EC5 /* tokeikarannda-kai3.png in Resources */,
 				2BA45FF618E112BC00E93EC5 /* Main.storyboard in Resources */,
+				2BA4601A18E15F1C00E93EC5 /* tokeikarennda-ver,2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +285,7 @@
 				2BA45FF918E112BC00E93EC5 /* ViewController.m in Sources */,
 				2BA45FF318E112BC00E93EC5 /* AppDelegate.m in Sources */,
 				2BA45FEF18E112BC00E93EC5 /* main.m in Sources */,
+				2BA4601F18E47A1000E93EC5 /* DatailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +490,7 @@
 				2BA4601318E112BC00E93EC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2BA4601418E112BC00E93EC5 /* Build configuration list for PBXNativeTarget "tokeikarenndaTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +499,7 @@
 				2BA4601618E112BC00E93EC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
