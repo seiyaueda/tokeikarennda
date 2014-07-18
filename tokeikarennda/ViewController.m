@@ -113,6 +113,8 @@
     [button addTarget:self action:@selector(onButtonTap) forControlEvents:UIControlEventTouchUpInside];
     
     [self.view addSubview:button];
+    //syuuryou
+    
 }
 
 - (void)onButtonTap
